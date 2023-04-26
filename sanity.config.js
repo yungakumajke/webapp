@@ -8,7 +8,7 @@ const devOnlyPlugins = [getStartedPlugin()]
 
 export default defineConfig({
   name: 'default',
-  title: 'aqua-swallow',
+  title: 'ecommercial',
 
   projectId: 't3d4sqnd',
   dataset: 'production',
