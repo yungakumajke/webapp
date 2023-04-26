@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "ecommerce"
+    "name": "aqua-swallow"
   },
   "api": {
-    "projectId": "kyml1h03",
+    "projectId": "t3d4sqnd",
     "dataset": "production"
   },
   "plugins": [
