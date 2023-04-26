@@ -10,7 +10,7 @@ export default defineConfig({
   name: 'default',
   title: 'ecommercial',
 
-  projectId: 't3d4sqnd',
+  projectId: 'kyml1h03',
   dataset: 'production',
 
   plugins: [deskTool(), visionTool(), ...(isDev ? devOnlyPlugins : [])],
